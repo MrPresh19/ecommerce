@@ -17,7 +17,7 @@ function Home() {
 
   useEffect(() =>{
 
-    axios.get("http://127.0.0.1:8000/food/")
+    axios.get("https://server-jogp.onrender.com/food/")
     .then((res) => setfoods(res.data))
     .catch(err => console.log(err))
 
