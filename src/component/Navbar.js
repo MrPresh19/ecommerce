@@ -76,7 +76,7 @@ function Navbar() {
         
         </Link>
 
-        <a href="https://server-jogp.onrender.com/admin">Admin</a>
+        <a href="https://server-jogp.onrender.com/admin/">Admin</a>
       </ul>
       
     </div>
